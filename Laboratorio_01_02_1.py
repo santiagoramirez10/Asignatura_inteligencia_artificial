@@ -10,6 +10,12 @@ Ejecute la siguiente celda para generar los datos a partir de los cuales debe
 calcular la métrica. Puede calcular la métrica implementando el código python, 
 o manualmente, o copiar/pegar los datos reales y previstos en Excel, etc.
 
+import numpy as np
+t1_actual    = np.random.randint(2, size=20)
+t1_predicted = np.abs(t1_actual*(np.random.random(size=20)>(np.random.random()*.9+.05)).astype(int))
+print ("actual   ", ", ".join([str(i) for i in t1_actual]))
+print ("predicted", ", ".join([str(i) for i in t1_predicted]))
+
 RETO: usar Python con sklearn.metrics.accuracy_score
 
 Observe que cada vez que ejecuta la siguiente celda, se genera un conjunto 
@@ -19,6 +25,6 @@ métrica.
 """
 import numpy as np
 from sklearn.metrics import accuracy_score
-t1_actual=np.random.randint(2, size=20)
+t1_actual=np.random.randint(2,size=20)
 t1_predicted=np.abs(t1_actual*(np.random.random(size=20)>(np.random.random()*.9+.05)).astype(int))
 accuracy=accuracy_score(t1_actual,t1_predicted)
