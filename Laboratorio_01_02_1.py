@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Santiago Ramirez
+@author: Santiago Ramírez Pérez
 
 Objetivo del laboratorio: Calcule el porcentaje de precisión de las predicciones 
 correctas (consulte aquí) para la siguiente salida del modelo (predicha) y la 

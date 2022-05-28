@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Santiago Ramirez
+@author: Santiago Ramírez Pérez
 
 Objetivo del laboratorio: Completa la función suma_matrices para que, dadas 
 dos arrays numpy cualquiera devuelva la suma elemento a elemento.

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Santiago Ramirez
+@author: Santiago Ramírez Pérez
 
 Objetivo del laboratorio: Comprender los datos y la métrica de evaluación 
 (Root Mean Squared Logarithmic Error, RMSLE) de la siguiente competencia de 

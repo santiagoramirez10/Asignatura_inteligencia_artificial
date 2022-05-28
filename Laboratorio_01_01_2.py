@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Santiago Ramirez
+@author: Santiago Ramírez Pérez
 
 Objetivo del laboratorio: En este ejercicio, al ejecutar la celda de más abajo, 
 se generará una lista de número aleatorios.

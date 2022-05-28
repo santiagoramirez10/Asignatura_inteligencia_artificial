@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Santiago Ramirez
+@author: Santiago Ramírez Pérez
 
 Objetivo del laboratorio: Calcule la métrica de sensibilidad [también conocida 
 como Tasa de verdadero positivo o Recuperación, consulte Sensibilidad en 
