@@ -1,3 +1,9 @@
+<style>
+a{
+text-decoration: none;
+}
+</style>
+
 <h2>Laboratorios de la asignatura introducción a la inteligencia artificial para las ciencias e ingeniería</h2>
 
 ---
@@ -15,7 +21,7 @@
 ---
 
 <h2>Listado de laboratorios</h2>
-<li><a href="https://github.com/santiagoramirez10/Asignatura_inteligencia_artificial/blob/main/LAB%2001.01%20-%20PRACTICE%20SUBMISSION.ipynb">Laboratorio 01.01 Practice submission</a></li>
+<li><a href="https://github.com/santiagoramirez10/Asignatura_inteligencia_artificial/blob/main/LAB%2001.01%20-%20PRACTICE%20SUBMISSION.ipynb">Laboratorio 01.01 Practice submission.</a></li>
 <li><a href="https://github.com/santiagoramirez10/Asignatura_inteligencia_artificial/blob/main/LAB%2001.02%20-%20METRICS.ipynb">Laboratorio 01.02 Metrics.</a></li>
 <li><a href="https://github.com/santiagoramirez10/Asignatura_inteligencia_artificial/blob/main/LAB%2002.01%20-%20PYTHON.ipynb">Laboratorio 02.01 Python.</a></li>
 <li><a href="https://github.com/santiagoramirez10/Asignatura_inteligencia_artificial/blob/main/LAB%2002.02%20-%20NUMPY.ipynb">Laboratorio 02.02 Numpy.</a></li>
